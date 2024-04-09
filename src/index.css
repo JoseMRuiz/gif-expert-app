@@ -1,0 +1,44 @@
+*{
+    font-family: arial
+}
+
+body{
+    padding:60px;
+}
+input {
+    font-size:1.2rem;
+    width:100%;
+    color:grey;
+}
+
+.card-grid  {
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+
+.Carta{
+    
+    align-content:center;
+    border:1px solid grey;
+    border-radius:6px;
+    overflow:hidden;
+    margin-bottom:10px;
+    margin-right:10px;
+    
+}
+
+
+
+
+
+
+p {
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    max-height:170px;
+    width:100%;
+}
